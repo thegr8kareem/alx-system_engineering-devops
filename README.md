@@ -1,1 +1,1 @@
-This repo is for shell scripting
+This is a readme describing the commands in shell permissions
